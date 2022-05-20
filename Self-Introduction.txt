@@ -1,6 +1,7 @@
 # Hello, my name is Lala.
 # My dream is to be Data Scientist.
 # The project name is 'AI-based-financial-data-analysis' hosted by OKEx.
+# I analyzed financial data analysis using market data and user data.
 
 ★★I would like to inform you that I wrote the part that did not reveal the source in 'source' file.
 
