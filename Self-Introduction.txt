@@ -2,7 +2,7 @@
 # My dream is to be Data Scientist.
 # The project name is 'AI-based-financial-data-analysis' hosted by OKEx.
 
-★★I would like to inform you that I wrote the part that did not reveal the source at the top of the code.
+★★I would like to inform you that I wrote the part that did not reveal the source in 'source' file.
 
 # If you have a question, please give me contact below.
 # Email: oyunjeong7@gmail.com
