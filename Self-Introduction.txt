@@ -2,6 +2,7 @@
 # My dream is to be Data Scientist.
 # The project name is 'AI-based-financial-data-analysis' hosted by OKEx.
 # I analyzed financial data analysis using market data and user data.
+# I'd like to inform you that the data cannot be uploaded due to the company's security.
 
 ★★I would like to inform you that I wrote the part that did not reveal the source in 'source' file.
 
